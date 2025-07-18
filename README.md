@@ -2,17 +2,6 @@
 
 This project performs exploratory data analysis on retail sales data using **Python**, **Pandas**, **SQLite**, and **Seaborn/Matplotlib**. It processes raw sales data, stores it in a local SQLite database, and visualizes key business metrics like sales trends and category performance.
 
-## 📂 Project Structure
-
-
-Retail-Sales-Analysis/
-├── Retail Sales Analysis.csv      # Raw sales data (CSV format)
-├── retail\_sales.db                # SQLite database file (auto-generated)
-├── Retail\_Sales\_Analysis.ipynb    # Jupyter Notebook with analysis code
-├── README.md                      # Project documentation (this file)
-
----
-
 ## ⚙️ Features
 
 - Data cleaning and preprocessing
